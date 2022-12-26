@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[194],{6806:function(n,u,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/products/sofwave",function(){return e(6970)}])},6970:function(n,u,e){"use strict";e.r(u);var t=e(5893);let _=()=>(0,t.jsx)("div",{children:"Sofwave page"});u.default=_}},function(n){n.O(0,[774,888,179],function(){return n(n.s=6806)}),_N_E=n.O()}]);
