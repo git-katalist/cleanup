@@ -58,7 +58,7 @@ main{
 }
 
 .number-slide1 {
-    background: url("/slider/bike-lesson.jpg");
+    background: url("./slider/bike-lesson.jpg");
         /* background-position: 70% 50%;
         background-size: cover;
         background-repeat: no-repeat;
@@ -77,7 +77,7 @@ main{
 
 .number-slide2 {
 
-  background: url("/slider/Connected-Medical-Devices.jpg");
+  background: url("./slider/Connected-Medical-Devices.jpg");
         background-position: 0% 50%;
         background-size: cover;
         background-repeat: no-repeat;
@@ -85,7 +85,7 @@ main{
 
 .number-slide3 {
 
-  background: url("/slider/family-fun.jpg");
+  background: url("./slider/family-fun.jpg");
         background-position: 0% 50%;
         background-size: cover;
         background-repeat: no-repeat;
@@ -93,7 +93,7 @@ main{
 
 .number-slide4 {
 
-  background: url("/slider/scissor-gloves.jpg");
+  background: url("./slider/scissor-gloves.jpg");
         background-position: 0% 50%;
         background-size: cover;
         background-repeat: no-repeat;
@@ -107,7 +107,7 @@ main{
     rgba(255, 63, 63, 1) 100%
   ); */
 
-  background: url("/slider/team-building.jpg");
+  background: url("./slider/team-building.jpg");
         background-position: 0% 50%;
         background-size: cover;
         background-repeat: no-repeat;
@@ -119,7 +119,7 @@ main{
     rgba(64, 76, 255, 1) 0%,
     rgba(174, 63, 255, 1) 100%
   ); */
-  background: url("/slider/team-building.jpg");
+  background: url("./slider/team-building.jpg");
         background-position: 0% 50%;
         background-size: cover;
         background-repeat: no-repeat;

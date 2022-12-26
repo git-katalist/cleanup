@@ -6,7 +6,7 @@ import Carousel from "../carousel/slider";
 export default function Home() {
   return (
     <>
-      {/* <Carousel /> */}
+      <Carousel />
       <h1 style={{ color: "black" }}>What is happening</h1>
       <ProductsStyled>
         {products.map((product, id) => (
